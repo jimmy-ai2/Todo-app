@@ -161,7 +161,7 @@ header p {
   border-color: var(--success);
 }
 
-.todo-checkbox:checked .checkmark::after {
+.todo-checkbox:checked + .checkmark::after {
   content: "";
   position: absolute;
   left: 6px;
