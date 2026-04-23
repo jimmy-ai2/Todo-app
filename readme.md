@@ -1,11 +1,11 @@
-# 📝 TaskFlow: Todo App
+# TaskFlow: Todo App
 
 A lightweight, responsive **Task Management application** built with modern web technologies.  
 TaskFlow helps users efficiently manage daily tasks with **real-time filtering** and **persistent storage**.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Task Management**  
   Add, toggle completion, and delete tasks بسهولة.
