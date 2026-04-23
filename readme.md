@@ -66,9 +66,13 @@ TaskFlow helps users efficiently manage daily tasks with **real-time filtering**
 
 ## Live Demo
 
+[Check out the Live Demo](https://jimmy-ai2.github.io/Todo-app/)
+
 ---
 
 ## Screenshots
+
+<img width="1746" height="906" alt="Todo-app snap" src="https://github.com/user-attachments/assets/e0cfe0a2-96f1-4245-9774-9f3358202d09" />
 
 ---
 
@@ -98,7 +102,7 @@ It focuses on creating a clean user interface while ensuring reliable data persi
 
 ## Author
 
-**Jimmy Chege**
+**Jimmy Gichui**
 
 - GitHub: https://github.com/jimmy-ai2
 
